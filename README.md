@@ -1,0 +1,2 @@
+# AI_P_Reasoning_4_SequentialData
+Contains projects and problems solved using probabilistic reasoning for sequential data. These include concepts such as handling time-series data with pandas, slicing time series data, operating on time series data, extracting statistics from time-series data, Generating data using Hidden Markov Model, identifying alphabet sequences with Conditional Random Fields, stock market analysis etc. 
